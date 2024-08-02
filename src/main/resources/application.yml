@@ -9,6 +9,7 @@ spring:
           search-paths:
             - estudante-service
             - sala-service
+            - naming-server
 server:
   port: 8888
 
