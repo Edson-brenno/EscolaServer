@@ -8,6 +8,7 @@ spring:
           uri: https://github.com/Edson-brenno/ConfigRepositorioService
           search-paths:
             - estudante-service
+            - sala-service
 server:
   port: 8888
 
