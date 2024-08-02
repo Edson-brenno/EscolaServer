@@ -10,6 +10,7 @@ spring:
             - estudante-service
             - sala-service
             - naming-server
+            - api-gateway
 server:
   port: 8888
 
